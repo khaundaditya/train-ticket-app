@@ -1,0 +1,47 @@
+
+### .gitignore
+
+```gitignore
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Spring Boot
+*.iml
+*.ipr
+*.iws
+*.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+
+# Eclipse
+*.metadata/
+
+# Build directories
+build/
+out/
+
+# Local configuration file (e.g., application.properties)
+application-local.properties
